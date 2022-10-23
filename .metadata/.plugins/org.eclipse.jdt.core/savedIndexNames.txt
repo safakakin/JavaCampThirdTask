@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\Şafak Akın\JavaHomeworks\ThirdDay\.metadata\.plugins\org.eclipse.jdt.core
+1580586942.index
+2959544807.index
+559637113.index
+4122157038.index
+2173185553.index
+2189953878.index
+1865797976.index
+3048885576.index
+2931225900.index
+536210559.index
+435225591.index

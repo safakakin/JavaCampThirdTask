@@ -1,0 +1,10 @@
+package abstractDemo;
+
+public class CustomerManager {
+	private BaseDatabaseManager databaseManager;
+	
+	public void GetCustomers() {
+		databaseManager.getData();
+	}
+
+}
